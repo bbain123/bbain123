@@ -1,6 +1,6 @@
 ## Hello, I’m @bbain123!
 - I’m interested in software design (specifically in Java) but I also have a passion for earth science and family relations 
-- Currently learning software engineering in:
+- Currently finished software engineering:
   - [x] Yr. 1
   - [x] Yr. 2
   - [ ] ***Yr. 3***
