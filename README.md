@@ -21,13 +21,6 @@ Music has always been a big part of my life, I’ve been playing the **piano** f
 [![BirdMapper](https://img.shields.io/badge/BirdMapper-🐦-brightgreen?style=for-the-badge)](https://www.birdmapper.org)
 ---
 
-### 💻 Tech Interests
-- **Software Design** (Java, C++)
-- **Computer Vision** & **Virtual Reality**
-
-I'm open to **collaborations on small Java or Python projects**!
-
----
 ## Languages and Tools
 
 <p align="left">
