@@ -15,10 +15,9 @@ Music has always been a big part of my life, I’ve been playing the **piano** f
 ---
 
 ### 🌱I'm Currently Working On:
-- **Bird Collision Prediction Website**: Modeling hotspots and optimizing patrol routes based on user inputs.
-- Maintaining the Global Bird Collision Mapper:
-  
-[![BirdMapper](https://img.shields.io/badge/BirdMapper-🐦-brightgreen?style=for-the-badge)](https://www.birdmapper.org)
+- **Bird Collision Prediction Website** (private for now): Modeling hotspots and optimizing bird collision patrol routes based on user inputs.
+- Maintaining and updating the Global Bird Collision Website using ArcGIS software:
+[![BirdMapper](https://img.shields.io/badge/BirdMapper-🐦-brightgreen?style=for-the-badge)](https://www.birdmapper.org) 
 ---
 
 ## Languages and Tools
