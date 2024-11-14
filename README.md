@@ -64,5 +64,15 @@ Music has always been a big part of my life, I’ve been playing the **piano** f
 </p>
 
 ---
+## Websites
+- https://splitsi-3e71f.firebaseapp.com/#/
+- https://hospitalmanagement.fun/home.php
 
+## Papers and Software Documentation
+- [Neo4j and Cypher Paper](https://github.com/bbain123/Neo4J-and-Cypher-Report/blob/main/Neo4j%20and%20Cypher.pdf)
+- [Instagram Spam Filtering Paper](https://github.com/bbain123/InstagramSpamDetection/blob/main/Instagram%20Comment%20Spam%20Detection%20using%20ALBERT.pdf)
+- [Splitsi Documentation](https://github.com/bbain123/Splitsi/blob/main/Splitsi%20Report.pdf)
+- [Global Health Statistics Documentation](https://github.com/bbain123/GlobalStatistics/blob/main/GlobalStatSRS.pdf)
+
+---
 Thanks for stopping by, and feel free to reach out (and give me a follow 😉) through my socials above!
