@@ -15,6 +15,7 @@ Music has always been a big part of my life, I’ve been playing the **piano** f
 ---
 
 ### 🌱I'm Currently Working On:
+- How Do You Know Website
 - **Bird Collision Prediction Website** (private for now): Modeling hotspots and optimizing bird collision patrol routes based on user inputs.
 - Maintaining and updating the Global Bird Collision Website using ArcGIS software:
 [![BirdMapper](https://img.shields.io/badge/BirdMapper-🐦-brightgreen?style=for-the-badge)](https://www.birdmapper.org) 
@@ -64,8 +65,8 @@ Music has always been a big part of my life, I’ve been playing the **piano** f
 
 ---
 ## Websites
+- https://bbain123.github.io/windows2000-portfolio/
 - https://splitsi-3e71f.firebaseapp.com/#/
-- https://hospitalmanagement.fun/home.php
 
 ## Papers and Software Documentation
 - [Neo4j and Cypher Paper](https://github.com/bbain123/Neo4J-and-Cypher-Report/blob/main/Neo4j%20and%20Cypher.pdf)
